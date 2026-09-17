@@ -7,6 +7,7 @@ Public privacy and account-deletion pages for **Hilal: Kahve Falı, Tarot & Rüy
 - `privacy.md` — Markdown sürümü
 - `delete-account.md` — Markdown sürümü
 
-GitHub Pages etkinleştirildiğinde:
+GitHub Pages kaynağı: `main` / `(root)`
+
 - Privacy Policy: `https://sametg003-source.github.io/hilal-privacy/`
 - Account deletion: `https://sametg003-source.github.io/hilal-privacy/delete-account.html`
