@@ -57,6 +57,6 @@ Hilal çocuklara yönelik olarak tasarlanmamıştır. Mağaza hedef kitlesi ve y
 Bu politika, uygulama özellikleri, kullanılan hizmet sağlayıcılar veya yasal gereklilikler değiştiğinde güncellenebilir.
 
 ## 11. İletişim
-Web: https://promtix.com.tr/  
+Web: https://hilalfal.com/
 Uygulama: Hilal: Kahve Falı, Tarot & Rüya  
 Paket: `com.hilalfal.app`
