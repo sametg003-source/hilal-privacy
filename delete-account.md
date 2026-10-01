@@ -22,4 +22,4 @@ Dolandırıcılığın önlenmesi, aynı satın almanın tekrar kullanılmasın�
 Hesabın silinmesi aktif Google Play aboneliğini otomatik iptal etmeyebilir. Aktif abonelik varsa Google Play abonelik ayarlarından ayrıca iptal edilmelidir.
 
 ## Uygulamaya erişemiyorsan
-Geliştiriciyle uygulamanın Google Play sayfasındaki iletişim bilgileri üzerinden veya https://promtix.com.tr/ adresinden iletişime geçebilirsin.
+Geliştiriciyle uygulamanın Google Play sayfasındaki iletişim bilgileri üzerinden veya https://hilalfal.com/ adresinden iletişime geçebilirsin.
